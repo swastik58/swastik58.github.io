@@ -67,7 +67,8 @@ body
 .about
 {
 	padding-top: 100px;
-	margin-bottom: -250px;
+	margin-bottom: -230px;
+	background: #c0c0c0;
 }
 .profile-img
 {
@@ -125,7 +126,7 @@ body
 .resume
 {
 	margin-top: 130px;
-	padding-top: 200px;
+	padding-top: 160px;
 	padding-bottom: 30px;
 	background: #f9f9f9;
 }
@@ -223,9 +224,9 @@ body
 .footer
 {
 	background: #000;
-	height: 20px;
+	height: 10px;
 	margin-top: 10px;
-	color: #fff;
+	color: #000;
 	padding-top: 10px;
 }
 .fa-heart-o
@@ -242,7 +243,7 @@ body
 	margin-bottom: -700px;
 	padding-bottom: -40px;
 	height: 100vh;
-	background: #f0f0f0;
+	background: #D3D3D3;
 	background: linear-
 	gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
 }
@@ -262,7 +263,7 @@ body
 }
 .internet ul li:hover
 {
-	color: #292929;
+	color: #ffffff;
 	transition: 1s;
 	border: 2px solid #292929;
 	
@@ -271,6 +272,7 @@ body
 {
 	padding-top: 70px;
 	margin-top: 10px;
+	background: #d3d3d3;
 }
 
 
